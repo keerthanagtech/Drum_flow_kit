@@ -67,6 +67,11 @@ footer {
 
 .set {
   margin: 10% auto;
+  display:flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 80%;
+  max-width: 800px;
 }
 
 .game-over {
